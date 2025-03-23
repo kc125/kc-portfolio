@@ -96,13 +96,15 @@ Data Reporting Optimization – Leveraged SAS Enterprise for CRM data mining, im
 Analytical Efficiency Boost – Developed Excel-based scorecards, increasing efficiency by 30%.
 
 ### Tech stack:
-Python
-Power BI
-SQL
-EXCEL
+Python,
+PowerBI,
+SQL,
+EXCEL.
 
 <img width="4" alt="Screenshot 2025-03-23 at 19 53 16" src="https://github.com/user-attachments/assets/89b5381d-25b0-44a8-a44c-cf4b21f4bc9e" />
+
 <img width="89" alt="Screenshot 2025-03-23 at 19 54 10" src="https://github.com/user-attachments/assets/b880b2d4-39f9-4143-a384-60c278d96747" />
+
 <img width="889" alt="Screenshot 2025-03-23 at 19 53 35" src="https://github.com/user-attachments/assets/a333e81f-c6aa-4050-bcad-c9afba680f6b" />
 
 
