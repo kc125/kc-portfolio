@@ -78,6 +78,37 @@ Neural networks showed potential but required fine-tuning for better accuracy.
 <img width="595" alt="Screenshot 2025-03-23 at 19 47 13" src="https://github.com/user-attachments/assets/b64e9f94-0cbf-43bb-8b8e-0238b9197543" />
 
 
+# Project 3
+
+## Loan Risk Analysis & Prediction
+
+Led loan risk analysis and predictive modeling using SQL and statistical techniques, enhancing risk prediction accuracy by 25% and reducing financial losses from incorrect approvals by 20%. Developed interactive Power BI dashboards that streamlined decision-making by 30% and improved data clarity for loan providers. Optimized data reporting by leveraging SAS Enterprise for CRM data mining, increasing reporting efficiency by 29%. Additionally, created Excel-based scorecards that boosted analytical efficiency by 30%, enabling more precise and data-driven lending decisions.
+
+### Key Highlights:
+Loan Risk Analysis & Prediction – Enhanced risk prediction accuracy by 25% using SQL and statistical methods.
+
+Financial Loss Reduction – Minimized incorrect loan approvals, reducing financial loss by 20%.
+
+Power BI Dashboard Development – Designed interactive dashboards, cutting decision-making time by 30%.
+
+Data Reporting Optimization – Leveraged SAS Enterprise for CRM data mining, improving reporting efficiency by 29%.
+
+Analytical Efficiency Boost – Developed Excel-based scorecards, increasing efficiency by 30%.
+
+### Tech stack:
+Python
+Power BI
+SQL
+EXCEL
+
+<img width="4" alt="Screenshot 2025-03-23 at 19 53 16" src="https://github.com/user-attachments/assets/89b5381d-25b0-44a8-a44c-cf4b21f4bc9e" />
+<img width="89" alt="Screenshot 2025-03-23 at 19 54 10" src="https://github.com/user-attachments/assets/b880b2d4-39f9-4143-a384-60c278d96747" />
+<img width="889" alt="Screenshot 2025-03-23 at 19 53 35" src="https://github.com/user-attachments/assets/a333e81f-c6aa-4050-bcad-c9afba680f6b" />
+
+
+
+
+
 
 
 
