@@ -71,5 +71,13 @@ Neural networks showed potential but required fine-tuning for better accuracy.
 * Scikit-Learn (Regression Models)
 * PyTorch (Deep Learning Models)
 
+<img width="534" alt="Screenshot 2025-03-23 at 19 44 58" src="https://github.com/user-attachments/assets/afebefe7-426f-412f-b24a-99e4a5ed2ca1" />
+
+<img width="471" alt="Screenshot 2025-03-23 at 19 45 41" src="https://github.com/user-attachments/assets/4b5716de-491c-449f-88c3-6c374b1d48ac" />
+
+<img width="595" alt="Screenshot 2025-03-23 at 19 47 13" src="https://github.com/user-attachments/assets/b64e9f94-0cbf-43bb-8b8e-0238b9197543" />
+
+
+
 
 
