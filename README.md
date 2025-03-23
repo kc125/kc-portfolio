@@ -1,6 +1,3 @@
-# kc's_portfolio
-Analytics Portfolio
-
 Project Title:
 "Birmingham House Price Analysis & Prediction (1995-2019)"
 Project Description:
